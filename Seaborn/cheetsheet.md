@@ -223,12 +223,4 @@ Works well with:
 
 ---
 
-# ⭐ Contribute
 
-If you find this cheat sheet helpful, consider **starring the repository** and contributing improvements.
-
----
-
-# 📄 License
-
-This project is open-source and available under the **MIT License**.
